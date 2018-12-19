@@ -1,5 +1,4 @@
-# GitHub Pages for CS294-144 (Spring 2018)
+# GitHub Pages for CS294-144 (Spring 2019)
 
-[https://berkeley-blockchain.github.io/cs294-144-s18/](https://berkeley-blockchain.github.io/cs294-144-s18/)
+[https://berkeley-blockchain.github.io/cs294-144-s19/](https://berkeley-blockchain.github.io/cs294-144-s19/)
 
-Short: [http://bit.ly/berkeley-blockchain](http://bit.ly/berkeley-blockchain)
