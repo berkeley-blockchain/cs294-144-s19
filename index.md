@@ -27,9 +27,7 @@
 
 ## Teaching Assistant
 
-| ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjAAAAAJGUwMjU4ZmUyLWEwMjktNGIwNy04MjFkLWFkZDZhN2Y3MTc2Zg.jpg) | ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxVAAAAJDgyN2I5YTVjLWU3OWQtNGI2OS1hY2M1LTA0MjRjMjAyNmE4NA.jpg) |
-| --- | --- |
-| [Howard Wu](https://github.com/howardwu) | [Nick Zoghb](https://github.com/nzoghb) |
+
 
 ## Lectures
 
@@ -342,7 +340,7 @@ Students will also form project groups (6 people per group: 2 from EECS, 2 from 
 
 Enrollment is very limited. If you would like to enroll in the class, please follow the instructions below based on your department. Accepted students will be given instructor codes to register for the class. Decisions for admission will be released on a rolling basis. Due to limited space, please apply as soon as possible.
 
-**For EECS/Engineering Students**: Please fill out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSdZwHGIEMQsFjZGxKEPclZEbaqfVMWQlalbGwJWm_Fb5_T_DQ/viewform?usp=sf_link)** 
+**For EECS/Engineering Students**: Please fill out **[this form](https://docs.google.com/forms/d/1LHvx6wTKEDsI6lq6UkJEz9Ae6FpY7Rwh_xoJsTJXzOQ)** 
 
 **For Law Students**: Please send to [asterling@law.berkeley.edu](mailto:asterling@law.berkeley.edu), a copy of your resume and a short comment (2-3 sentences) on why you are interested in the course.
 
