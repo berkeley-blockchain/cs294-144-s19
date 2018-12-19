@@ -178,7 +178,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>04/23</td>
       <td>Boalt 110</td>
-      <td>Zhiguo He: issues from an economist and regulator’s perspective</td>
+      <td>[Zhiguo He](http://www.zhiguohe.com): issues from an economist and regulator’s perspective</td>
       <td></td>
       <td></td>
       <td></td>
