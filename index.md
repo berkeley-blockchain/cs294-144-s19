@@ -1,14 +1,6 @@
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%;">
-  <thead>
-    <tr>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Raymond Cheng"></th>
-      <th style="width: 25%;"><img src="http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG" alt="Gregory La Blanc"></th>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 25%;"><img src="https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg" alt="Adam Sterling"></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
@@ -25,8 +17,19 @@
   </tbody>
 </table>
 
-## Teaching Assistant
+## Project mentors
 
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Raymond Cheng"></th>
+      <th style="width: 25%;"><img src="http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG" alt="Gregory La Blanc"></th>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img src="https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg" alt="Adam Sterling"></th>
+    </tr>
+  </thead>
+
+</table>
 
 
 ## Lectures
