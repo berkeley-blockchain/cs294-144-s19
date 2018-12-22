@@ -28,17 +28,17 @@
   <thead>
     <tr>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Raymond Cheng"></th>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img src="http://www.cs.utah.edu/~mind/images/mindu.jpg" alt="Min Du"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
-      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td><a href="http://www.cs.utah.edu/~mind/">Min Du</a></td>
     </tr>
     <tr>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
-      <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
     </tr>
   </tbody>
 </table>
