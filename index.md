@@ -1,15 +1,20 @@
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 25%;"><img src="http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG" alt="Gregory La Blanc"></th>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img src="https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg" alt="Adam Sterling"></th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
       <td><a href="http://facultybio.haas.berkeley.edu/faculty-list/lablanc-gregory/">Gregory La Blanc</a></td>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
       <td><a href="https://www.law.berkeley.edu/our-faculty/faculty-profiles/adam-sterling/">Adam Sterling</a></td>
     </tr>
     <tr>
-      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
       <td>Lecturer, <a href="http://haas.berkeley.edu/">Haas Business School</a></td>
       <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
       <td>Executive Director, <a href="https://www.law.berkeley.edu/research/berkeley-center-for-law-business-and-the-economy/">Berkeley Center for Law, Business and the Economy</a></td>
@@ -23,14 +28,20 @@
   <thead>
     <tr>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Raymond Cheng"></th>
-      <th style="width: 25%;"><img src="http://facultybio.haas.berkeley.edu/wp-content/uploads/lablanc2.JPG" alt="Gregory La Blanc"></th>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 25%;"><img src="https://www.law.berkeley.edu/wp-content/uploads/2016/10/sterling_adam_210x270-210x270.jpg" alt="Adam Sterling"></th>
     </tr>
   </thead>
-
+  <tbody>
+    <tr>
+      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+    </tr>
+    <tr>
+      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+    </tr>
+  </tbody>
 </table>
-
 
 ## Lectures
 
