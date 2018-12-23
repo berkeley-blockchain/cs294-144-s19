@@ -27,14 +27,14 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Jian Liu"></th>
       <th style="width: 25%;"><img src="http://www.cs.utah.edu/~mind/images/mindu.jpg" alt="Min Du"></th>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Jian Liu"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
       <td><a href="">Min Du</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>    
     </tr>
     <tr>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
