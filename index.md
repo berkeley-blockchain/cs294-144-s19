@@ -27,14 +27,14 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Raymond Cheng"></th>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Jian Liu"></th>
       <th style="width: 25%;"><img src="http://www.cs.utah.edu/~mind/images/mindu.jpg" alt="Min Du"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
-      <td><a href="http://www.cs.utah.edu/~mind/">Min Du</a></td>
+      <td><a href="">Min Du</a></td>
     </tr>
     <tr>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
@@ -191,7 +191,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/23</td>
-      <td>Boalt 110</td>
+      <td>Chou N570</td>
       <td><a href="http://www.zhiguohe.com">Zhiguo He</a>: issues from an economist and regulator’s perspective</td>
       <td></td>
       <td></td>
