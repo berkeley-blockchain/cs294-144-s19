@@ -78,17 +78,17 @@ Blockchain is one of the most significant technologies to impact law and busines
   </thead>
   <tbody>
     <tr>
-      <td>01/22</td>
+      <td>01/28</td>
       <td>Chou N570</td>
-      <td></td>
+      <td>What is Money -- Setting the Stage for Bitcoin and Blockchain (LaBlanc)</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>01/29</td>
+      <td>02/04</td>
       <td>Chou N570</td>
-      <td></td>
+      <td>Technical Primer on Blockchain (Guest Lecture - Max Fang)</td>
       <td></td>
       <td></td>
       <td></td>
