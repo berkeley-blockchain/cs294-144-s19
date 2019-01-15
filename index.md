@@ -110,17 +110,17 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Project Proposals due 2/18</td>
     </tr>
     <tr>
-      <td>02/19</td>
-      <td></td>
-      <td>No Class - President's Day</td>
+      <td>03/04</td>
+      <td>Chou N570</td>
+      <td>Technical Primer on Blockchain Part Two (Guest Lecture - Max Fang)</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>02/26</td>
+      <td>03/11</td>
       <td>Chou N570</td>
-      <td></td>
+      <td>New Venture Finance, Cryptocurrencies, and Regulation (Sterling)</td>
       <td></td>
       <td></td>
       <td></td>
