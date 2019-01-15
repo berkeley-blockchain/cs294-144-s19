@@ -78,14 +78,6 @@ Blockchain is one of the most significant technologies to impact law and busines
   </thead>
   <tbody>
     <tr>
-      <td>01/15</td>
-      <td></td>
-      <td>No Class - Martin Luther King Jr. Day</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>01/22</td>
       <td>Chou N570</td>
       <td></td>
