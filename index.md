@@ -94,17 +94,17 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td></td>
     </tr>
     <tr>
-      <td>02/05</td>
+      <td>02/11</td>
       <td>Chou N570</td>
-      <td></td>
+      <td>Payment Systems (LaBlanc)</td>
       <td></td>
       <td></td>
       <td>Team Formation Due 2/5</td>
     </tr>
     <tr>
-      <td>02/12</td>
+      <td>02/25</td>
       <td>Boalt 110</td>
-      <td></td>
+      <td>Guest Panel on Payments (Chaired by LaBlanc)</td>
       <td></td>
       <td></td> 
       <td>Project Proposals due 2/18</td>
