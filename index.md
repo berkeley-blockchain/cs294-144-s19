@@ -80,7 +80,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     <tr>
       <td>01/28</td>
       <td>Chou N570</td>
-      <td>What is Money -- Setting the Stage for Bitcoin and Blockchain (LaBlanc)</td>
+      <td>What is Money – Setting the Stage for Bitcoin and Blockchain (LaBlanc)</td>
       <td></td>
       <td></td>
       <td></td>
@@ -126,25 +126,25 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td></td>
     </tr>
     <tr>
-      <td>03/05</td>
+      <td>03/18</td>
       <td>Chou N570</td>
-      <td></td>
+      <td>New Venture Finance, Cryptocurrencies, and Regulation Part Two (Sterling)</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>03/12</td>
-      <td>Chou N570</td>
-      <td></td>
+      <td>04/01</td>
+      <td>Boalt 110</td>
+      <td>Guest Panel on ICOs and Crytpofinance (Chaired by Sterling)</td>
       <td></td>
       <td></td>
       <td>Mid-term deadline</td>
     </tr>
     <tr>
-      <td>03/19</td>
-      <td>Boalt 110</td>
-      <td></td>
+      <td>04/08</td>
+      <td>Chou N570</td>
+      <td>Smart Contracts, Security, and Privacy (Song and Cheng)</td>
       <td></td>
       <td></td>
       <td></td>
