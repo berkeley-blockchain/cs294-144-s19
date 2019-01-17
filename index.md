@@ -41,7 +41,7 @@
     <tr>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
-      <td>J.D. Candidate, <a href="https://www.law.berkeley.edu/">EECS</a></td>
+      <td>J.D. Candidate, <a href="https://www.law.berkeley.edu/">Berkeley Law</a></td>
     </tr>
   </tbody>
 </table>
