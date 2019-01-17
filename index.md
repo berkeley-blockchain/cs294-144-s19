@@ -150,25 +150,25 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td></td>
     </tr>
     <tr>
-      <td>03/26</td>
-      <td></td>
-      <td>No Class - Spring Recess</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/02</td>
-      <td>Boalt 110</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/09</td>
+      <td>04/15</td>
       <td>Chou N570</td>
+      <td>Smart Contracts and Supply Chains (LaBlanc)</td>
       <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/22</td>
+      <td>Chou N570</td>
+      <td>Issues from an Economist and Regulators' Perspective (<a href="http://www.zhiguohe.com">Zhiguo He</a>)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>04/29</td>
+      <td>Boalt 110</td>
+      <td>Guest Panel on Enterprise Blockchain (Chaired by LaBlanc)</td>
       <td></td>
       <td></td>
       <td></td>
@@ -190,20 +190,20 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td></td>
     </tr>
     <tr>
-      <td>04/30</td>
+      <td>05/06</td>
       <td></td>
-      <td>No Class - Reading Week</td>
+      <td>Final Presentations</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>05/07</td>
+      <td>05/13</td>
       <td>Chou N570</td>
-      <td>Final Project Presentations</td>
+      <td>Final Exams</td>
       <td></td>
       <td></td>
-      <td>Final Project Deliverables due</td>
+      <td></td>
     </tr>
     
   </tbody>
