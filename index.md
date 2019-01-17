@@ -22,7 +22,7 @@
   </tbody>
 </table>
 
-## Project mentors
+## Project Mentors
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
