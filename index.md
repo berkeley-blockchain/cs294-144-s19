@@ -29,16 +29,19 @@
     <tr>
       <th style="width: 25%;"><img src="http://www.cs.utah.edu/~mind/images/mindu.jpg" alt="Min Du"></th>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Jian Liu"></th>
+      <th style="width: 25%;"><img src="https://media.licdn.com/dms/image/C4E03AQFqWS828LYzfQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=5S_sDEra8-DrDBIdrelgYHd_3c3QzxU0MFGJ0CxyHkw" alt="Alexis Persson"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="">Min Du</a></td>
-      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>    
+      <td><a href="https://people.eecs.berkeley.edu/~jian.liu/#">Jian Liu</a></td>
+      <td><a href="">Alexis Persson</a></td>
     </tr>
     <tr>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
       <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>J.D. Candidate, <a href="https://www.law.berkeley.edu/">EECS</a></td>
     </tr>
   </tbody>
 </table>
