@@ -99,7 +99,15 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Payment Systems (LaBlanc)</td>
       <td></td>
       <td></td>
-      <td>Team Formation Due 2/5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>02/18</td>
+      <td></td>
+      <td>No Class – Presidents' Day</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>02/25</td>
@@ -107,7 +115,7 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td>Guest Panel on Payments (Chaired by LaBlanc)</td>
       <td></td>
       <td></td> 
-      <td>Project Proposals due 2/18</td>
+      <td></td>
     </tr>
     <tr>
       <td>03/04</td>
@@ -134,12 +142,20 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td></td>
     </tr>
     <tr>
+      <td>03/25</td>
+      <td></td>
+      <td>No Class – Spring Recess</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>04/01</td>
       <td>Boalt 110</td>
       <td>Guest Panel on ICOs and Crytpofinance (Chaired by Sterling)</td>
       <td></td>
       <td></td>
-      <td>Mid-term deadline</td>
+      <td></td>
     </tr>
     <tr>
       <td>04/08</td>
@@ -174,24 +190,8 @@ Blockchain is one of the most significant technologies to impact law and busines
       <td></td>
     </tr>
     <tr>
-      <td>04/16</td>
-      <td>Boalt 110</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>04/23</td>
-      <td>Chou N570</td>
-      <td><a href="http://www.zhiguohe.com">Zhiguo He</a>: issues from an economist and regulator’s perspective</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>05/06</td>
-      <td></td>
+      <td>Chou N570</td>
       <td>Final Presentations</td>
       <td></td>
       <td></td>
