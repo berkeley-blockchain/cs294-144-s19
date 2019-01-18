@@ -228,7 +228,7 @@ Students will also form project groups (6 people per group: 2 from EECS, 2 from 
 As of now, all seats in the class have been filled.
 
 **Can I audit the class?**
-Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public, to attend, please register here. 
+Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public—to attend, please register here. 
 
 
 
