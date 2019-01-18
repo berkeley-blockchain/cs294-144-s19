@@ -59,10 +59,10 @@
 
 ## bCourses
 
-To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please make sure you have access to bCourses and watch for notifications.
+To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please make sure you have access to the bCourses site.
 
 ## Registration for Special Guest Lectures
-On 2/25, 4/1, and 4/29, class will consist of a panel of esteemed guest speakers, chaired by one of our instructors, to speak on a selected special topic. These guest lectures are open to the public, and if you wish to attend, please register here.
+On 2/25, 4/1, and 4/29, class will consist of a panel of esteemed guest speakers, chaired by one of our instructors, to speak on a selected special topic. These guest lectures are open to the public, so if you wish to attend but are not enrolled in the class, please register here.
 
 ## Course description
 Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions and opportunities at the intersection of technology, business and law. This course is designed to employ this interdisciplinary nature. We will provide an overview of the technology behind blockchain and explore current and potential real-world applications in technology, business, and law. 
