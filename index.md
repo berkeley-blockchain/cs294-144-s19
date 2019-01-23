@@ -63,9 +63,10 @@ To receive announcements on information about the course, including distinguishe
 
 ## Registration for Special Guest Lectures
 On 2/25, 4/1, and 4/29, class will consist of a panel of esteemed guest speakers, chaired by one of our instructors, to speak on a selected special topic. These guest lectures are open to the public, so if you wish to attend but are not enrolled in the class, please register using the following links:
-    - <a href="https://conta.cc/2W41r2x">2/25 Lecture Registration</a>
-    - <a href="https://conta.cc/2sznrFh">4/1 Lecture Registration</a>
-    - <a href="https://conta.cc/2RCKAWe">4/29 Lecture Registration</a> 
+
+- <a href="https://conta.cc/2W41r2x">2/25 Lecture Registration</a>
+- <a href="https://conta.cc/2sznrFh">4/1 Lecture Registration</a>
+- <a href="https://conta.cc/2RCKAWe">4/29 Lecture Registration</a> 
 
 ## Course description
 Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions and opportunities at the intersection of technology, business and law. This course is designed to employ this interdisciplinary nature. We will provide an overview of the technology behind blockchain and explore current and potential real-world applications in technology, business, and law. 
