@@ -50,7 +50,7 @@
 
 **Time**: Monday 6:00--8:00 pm
 
-**Location**: Lectures in Chou N570, Guest Panels in Boalt 110
+**Location**: Lectures in Chou N570, Guest Panels in Boalt 110 or Andersen Auditorium (F295)
 
 ## Office Hours
 
@@ -193,7 +193,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
     </tr>
     <tr>
       <td>04/29</td>
-      <td>F295 - Andersen Auditorium</td>
+      <td>Andersen Auditorium (F295)</td>
       <td>Guest Panel on Enterprise Blockchain (Chaired by LaBlanc)</td>
       <td></td>
       <td></td>
@@ -239,7 +239,7 @@ A mutually supportive learning environment depends on active attention and engag
 As of now, all seats in the class have been filled.
 
 **Can I audit the class?**
-Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public—to attend, please register following the links above under "Registration for Special Guest Lectures." 
+Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public—to attend, please register following the links above under Registration for Special Guest Lectures. 
 
 
 
