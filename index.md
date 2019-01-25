@@ -68,8 +68,11 @@ On 2/25, 4/1, and 4/29, class will consist of a panel of esteemed guest speakers
 - <a href="https://conta.cc/2sznrFh">4/1 Lecture Registration</a>
 - <a href="https://conta.cc/2RCKAWe">4/29 Lecture Registration</a> 
 
-## Course description
+## Course Description
 Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions and opportunities at the intersection of technology, business and law. This course is designed to employ this interdisciplinary nature. We will provide an overview of the technology behind blockchain and explore current and potential real-world applications in technology, business, and law. 
+
+## Course Materials
+The required textbook for the class is <i>The Basics of Bitcoins and Blockchains</i> by Antony Lewis (find <a href="https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001">here</a> on Amazon). Links to supplemental readings will be posted accordingly. 
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
