@@ -225,7 +225,11 @@ This is a lecture, discussion, and project oriented class. Each lecture will foc
 
 Students will also form project groups (6 people per group: 2 from EECS, 2 from Haas, 2 from Boalt) and complete a high-impact class project. The final project/deliverable will be small team presentation on a new application of blockchain (with a legal and business analysis). Finally, students will take a final examination that surveys the issues addressed in the course. 
 
-## Supplemental Reading
+## Laptop and Electronic Device Policy
+
+A mutually supportive learning environment depends on active attention and engagement. For this reason, the use of laptops, tablets, cell phones, or any other electronic device is discouraged during classroom sessions. If you violate this policy without prior approval for an accommodation, you face, at a minimum, a substantial penalization in the class participation portion of your grade. 
+
+## Recommended Reading
 
 [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
 
@@ -235,7 +239,7 @@ Students will also form project groups (6 people per group: 2 from EECS, 2 from 
 As of now, all seats in the class have been filled.
 
 **Can I audit the class?**
-Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public—to attend, please register here. 
+Unfortunately, space constraints keep us from allowing students to audit the class. Some guest panels will be open to the public—to attend, please register following the links above under "Registration for Special Guest Lectures." 
 
 
 
