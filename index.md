@@ -190,7 +190,7 @@ Blockchain is one of the most significant technologies to impact law and busines
     </tr>
     <tr>
       <td>04/29</td>
-      <td>TBD</td>
+      <td>F295 - Andersen Auditorium</td>
       <td>Guest Panel on Enterprise Blockchain (Chaired by LaBlanc)</td>
       <td></td>
       <td></td>
