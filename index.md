@@ -91,7 +91,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>01/28</td>
       <td>Chou N570</td>
       <td>What is Money – Setting the Stage for Bitcoin and Blockchain (LaBlanc)</td>
-      <td>No readings</td>
+      <td><a href="https://is.muni.cz/el/1456/podzim2009/MPE_MOEK/um/8972262/menger1892.pdf">On the Origin of Money</a> | <a href="http://www.nber.org/papers/w19747.pdf">Is Bitcoin a Real Currency</a> | <a href="http://www.nber.org/papers/w22952.pdf">Some Simple Economics of Blockchain</a> | <a href="https://www.ccilindia.com/Documents/Rakshitra/2016/May/Article Summary.pdf">Digital Currencies, Decentralized Ledgers, and the Future of Central Banking</a> | <a href="https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx">Island Money</a> | <a href="https://www.bloomberg.com/news/articles/2018-03-29/the-ancient-history-of-bitcoin">The Ancient History of Bitcoin</a> | <a href="https://unenumerated.blogspot.com/2018/03/the-many-traditions-of-non-governmental.html">History of Money</a></td>
       <td></td>
       <td></td>
     </tr>
