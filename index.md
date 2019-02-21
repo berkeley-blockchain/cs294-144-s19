@@ -121,9 +121,9 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
     </tr>
     <tr>
       <td>02/25</td>
-      <td>Boalt 110</td>
-      <td>Guest Panel on Payments (Chaired by LaBlanc)</td>
-      <td></td>
+      <td>Chou N570</td>
+      <td>Payment Systems (LaBlanc)</td>
+      <td><a href="https://www.cbinsights.com/research/how-people-pay/">How People Pay Around the World</a></td>
       <td></td> 
       <td></td>
     </tr>
@@ -137,9 +137,9 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
     </tr>
     <tr>
       <td>03/11</td>
-      <td>Chou N570</td>
-      <td>Payment Systems (LaBlanc)</td>
-      <td><a href="https://www.cbinsights.com/research/how-people-pay/">How People Pay Around the World</a></td>
+      <td>TBD</td>
+      <td>Guest Panel on Payments (Chaired by LaBlanc)</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
