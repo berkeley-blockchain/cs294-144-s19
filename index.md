@@ -137,7 +137,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
     </tr>
     <tr>
       <td>03/11</td>
-      <td>TBD</td>
+      <td>Andersen Auditorium (F295)</td>
       <td>Guest Panel on Payments (Chaired by LaBlanc)</td>
       <td></td>
       <td></td>
