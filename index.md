@@ -62,7 +62,7 @@
 To receive announcements on information about the course, including distinguished guest speakers and blockchain-related talks at Berkeley, please make sure you have access to the bCourses site.
 
 ## Registration for Special Guest Lectures
-On 2/25, 4/1, and 4/29, class will consist of a panel of esteemed guest speakers, chaired by one of our instructors, to speak on a selected special topic. These guest lectures are open to the public, so if you wish to attend but are not enrolled in the class, please register using the following links:
+On 3/11, 4/1, and 4/29, class will consist of a panel of esteemed guest speakers, chaired by one of our instructors, to speak on a selected special topic. These guest lectures are open to the public, so if you wish to attend but are not enrolled in the class, please register using the following links:
 
 - <a href="https://conta.cc/2W41r2x">3/11 Lecture Registration</a>
 - <a href="https://conta.cc/2sznrFh">4/1 Lecture Registration</a>
