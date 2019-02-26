@@ -124,7 +124,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Chou N570</td>
       <td>Payment Systems (LaBlanc)</td>
       <td><a href="https://www.cbinsights.com/research/how-people-pay/">How People Pay Around the World</a></td>
-      <td></td> 
+      <td><a href="https://www.dropbox.com/s/hr5y5fzfycvhpsd/blockchain%20class%20payments.ppt?dl=0">Class 4 Slides</a></td> 
       <td></td>
     </tr>
     <tr>
