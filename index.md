@@ -108,7 +108,9 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Chou N570</td>
       <td>New Venture Finance, Cryptocurrencies, and Regulation (Sterling)</td>
       <td><a href="https://www.sec.gov/answers/about-lawsshtml.html">The Laws That Govern the Securities Industry</a> | <a href="https://supreme.justia.com/cases/federal/us/328/293/case.html">SEC v. Howey Co., 328 U.S. 293 (1946)</a> | <a href="https://www.sec.gov/ICO">SEC ICO Portal</a> | <a href="https://www.cooley.com/news/insight/2017/2017-10-24-saft-project-whitepaper">The SAFT Project: Toward a Compliant Token Sale Framework</a> | <a href="https://cardozo.yu.edu/sites/default/files/Cardozo%20Blockchain%20Project%20-%20Not%20So%20Fast%20-%20SAFT%20Response_final.pdf">Not So Fast - Risks Related to the Use of a "SAFT" for Token Sales</a></td>
-      <td><a href="https://bcourses.berkeley.edu/files/74650830/download?download_frd=1">Class 3 Slides</a> <a href="https://bcourses.berkeley.edu/files/74437660/download?download_frd=1">Project Template Slides</a></td>
+      <td><a href="https://bcourses.berkeley.edu/files/74650830/download?download_frd=1">Class 3 Slides</a><br>
+        <br>
+        <a href="https://bcourses.berkeley.edu/files/74437660/download?download_frd=1">Project Template Slides</a></td>
       <td></td>
     </tr>
     <tr>
