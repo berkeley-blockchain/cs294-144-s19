@@ -134,7 +134,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Chou N570</td>
       <td>Technical Primer on Blockchain Part Two (Guest Lecture - Max Fang)</td>
       <td><a href="https://dev.lightning.community/overview/">LND Overview and Developer Guide</a> | <a href="https://blog.lightning.engineering/posts/2018/05/02/lightning-ux.html">Lightning User Experience: A Day in the Life of Carol</a> | <a href="https://blog.lightning.engineering/posts/2018/05/30/routing.html">Exploring Lightning Network Routing</a></td>
-      <td></td>
+      <td><a href="https://bcourses.berkeley.edu/files/74701520/download?download_frd=1">Class 5 Slides</a></td>
       <td></td>
     </tr>
     <tr>
