@@ -142,7 +142,11 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Andersen Auditorium (F295)</td>
       <td>Guest Panel on Payments (Chaired by LaBlanc)</td>
       <td></td>
-      <td></td>
+      <td><a href="https://bcourses.berkeley.edu/files/74846484/download?download_frd=1">Coinbase Slides</a><br>
+        <br>
+        <a href="https://bcourses.berkeley.edu/files/74846486/download?download_frd=1">BitPay Slides</a><br>
+        <br>
+        <a href="https://bcourses.berkeley.edu/files/74846487/download?download_frd=1">Wyre Slides</a></td>
       <td></td>
     </tr>
     <tr>
