@@ -154,7 +154,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Chou N570</td>
       <td>New Venture Finance, Cryptocurrencies, and Regulation Part Two (Sterling)</td>
       <td></td>
-      <td></td>
+      <td><a href="https://bcourses.berkeley.edu/files/74650830/download?download_frd=1">Class 6 Slides</a></td>
       <td></td>
     </tr>
     <tr>
