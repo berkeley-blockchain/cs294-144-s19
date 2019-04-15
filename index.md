@@ -186,7 +186,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Chou N570</td>
       <td>Smart Contracts and Supply Chains (LaBlanc)</td>
       <td><a href="https://digitalchamber.org/wp-content/uploads/2018/02/Smart-Contracts-12-Use-Cases-for-Business-and-Beyond_Chamber-of-Digital-Commerce.pdf">Smart Contracts: 12 Use Cases for Business & Beyond</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2936294">Contracts Ex Machina</a> | <a href="https://www.alexandria.unisg.ch/251095/1/WP29-Blockchain-driven supply chain finance Towards a conceptual framework from a buyer perspective.pdf">Blockchain-Driven Supply Chain Finance</a> | <a href="https://bcourses.berkeley.edu/files/74504789/download?download_frd=1">The Problem with Smart Contracts</a> | <a href="https://www.weforum.org/agenda/2018/04/questions-blockchain-toolkit-right-for-business/">These 11 Questions Will Help You Decide if Blockchain is Right for Your Business</a> | <a href="https://ieeexplore.ieee.org/document/8246573">Untangling Blockchain: A Data Processing View of Blockchain Systems</a> | <a href="https://www.logistics.dhl/content/dam/dhl/global/core/documents/pdf/glo-core-blockchain-trend-report.pdf">Blockchain in Logistics</a></td>
-      <td></td>
+      <td><a href="https://bcourses.berkeley.edu/files/74944393/download?download_frd=1">Class 8 Slides</a></td>
       <td></td>
     </tr>
     <tr>
