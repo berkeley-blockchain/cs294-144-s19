@@ -178,7 +178,9 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>Chou N570</td>
       <td>Smart Contracts, Security, and Privacy (Song and Cheng)</td>
       <td></td>
-      <td></td>
+      <td><a href="https://bcourses.berkeley.edu/files/74974689/download?download_frd=1">Smart Contracts Slides</a><br>
+        <br>
+        <a href="https://bcourses.berkeley.edu/files/74974691/download?download_frd=1">Smart Contract Scalability Slides</a></td>
       <td></td>
     </tr>
     <tr>
