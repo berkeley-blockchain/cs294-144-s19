@@ -195,7 +195,7 @@ The required textbook for the class is <i>The Basics of Bitcoins and Blockchains
       <td>04/22</td>
       <td>Chou N570</td>
       <td>Issues from an Economist and Regulators' Perspective (<a href="http://www.zhiguohe.com">Zhiguo He</a>)</td>
-      <td></td>
+      <td><a href="http://www.zhiguohe.com/uploads/1/0/6/9/106923057/mining-pool-project.pdf">Decentralized Mining in Centralized Pools</a> | <a href="https://voxeu.org/article/blockchain-smart-contracts-and-information">Blockchain, Smart Contracts, and Information</a></td>
       <td></td>
       <td></td>
     </tr>
