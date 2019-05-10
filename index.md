@@ -29,7 +29,7 @@
     <tr>
       <th style="width: 25%;"><img src="http://www.cs.utah.edu/~mind/images/mindu.jpg" alt="Min Du"></th>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~jian.liu/images/1.jpg" alt="Jian Liu"></th>
-      <th style="width: 25%;"><img src="https://media.licdn.com/dms/image/C4E03AQFqWS828LYzfQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=5S_sDEra8-DrDBIdrelgYHd_3c3QzxU0MFGJ0CxyHkw" alt="Alexis Persson"></th>
+      <th style="width: 25%;"><img src="https://media.licdn.com/dms/image/C5603AQF58VO0bD5hAA/profile-displayphoto-shrink_200_200/0?e=1562803200&v=beta&t=laqFyHrVAd9Fv4BY1yxf_UxsAazZ5n5qdVrlFubMm1Y" alt="Alexis Persson"></th>
     </tr>
   </thead>
   <tbody>
